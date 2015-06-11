@@ -2,7 +2,7 @@
 
 *A.k.a. "The Little Containers That Could!"*
 
-This repository contains:
+ This repository contains:
 
 - a `rootfs.tar` archive suitable to build a minimal [Docker] image,
   based on [Busybox];
